@@ -30,7 +30,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "美丽可爱亲亲老婆", "year": "2002", "date": "03-06"},
+      {"type": "生日", "name": "美丽可爱的老婆", "year": "2002", "date": "03-06"},
 
       {"type": "节日", "name": "我们的纪念日", "year": "2022", "date": "01-18"},
     ],
@@ -49,7 +49,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "攒了好久的温柔与浪漫，想要一次性都给你。"
     
 
 
