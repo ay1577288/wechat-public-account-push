@@ -49,7 +49,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: 攒了好久的温柔与浪漫，想要一次性都给你。
+    LITERARY_PREFERENCE: ""
     
 
 
